@@ -1,0 +1,40 @@
+ULTRASONIC DISTANCE METER
+
+Introduction
+
+An Ultrasonic Distance Meter is an embedded system that measures the distance to an object using ultrasonic sound waves. The HC-SR04 sensor transmits ultrasonic pulses and calculates the distance based on the time taken for the echo to return.
+
+Objective
+
+To measure the distance between the sensor and an object using an Arduino Uno and an HC-SR04 ultrasonic sensor.
+
+Components Used
+
+- Arduino Uno
+- HC-SR04 Ultrasonic Sensor
+- Breadboard
+- Jumper Wires
+- USB Cable
+
+Working Principle
+
+The Arduino triggers the ultrasonic sensor to emit sound waves. When these waves hit an object, they bounce back to the sensor. The Arduino measures the echo time and calculates the distance using the speed of sound.
+
+Advantages
+
+- Accurate distance measurement
+- Low cost
+- Easy to build
+- Non-contact sensing
+
+Applications
+
+- Obstacle detection
+- Robot navigation
+- Parking assistance systems
+- Industrial automation
+- Distance measurement devices
+
+Conclusion
+
+The Ultrasonic Distance Meter provides an efficient and reliable method of measuring distance without physical contact. It demonstrates the use of ultrasonic sensing and Arduino programming in embedded systems.
