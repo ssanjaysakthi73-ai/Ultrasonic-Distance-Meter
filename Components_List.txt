@@ -1,0 +1,11 @@
+COMPONENTS USED
+
+1. Arduino Uno
+
+2. HC-SR04 Ultrasonic Sensor
+
+3. Breadboard
+
+4. Jumper Wires
+
+5. USB Cable
